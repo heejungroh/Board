@@ -1,0 +1,45 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/templates/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+table{
+	position:relative;
+	left: 29%;
+	width:100%;
+	text-align: center;
+	padding:10px;
+	margin-left: 50%; 
+	margin:40px;
+}
+
+.my-4{
+	margin:100px;
+}
+
+.mb-4{
+	position:relative;
+	left:26%;
+	margin:40px;
+}
+
+.content{
+	position:relative;
+	left:26%;
+	margin:40px;
+}
+
+.content_detail{
+	position:relative;
+	left:-10%;
+	margin:40px;
+}
+
+.btnS{
+	position:relative;
+	left:65%;
+}
